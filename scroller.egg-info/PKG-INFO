@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: scroller
+Version: 0.1
+Summary: A simple scroller feed library for Django projects
+Home-page: https://github.com/yourusername/scroller-feed
+Author: Ravi Teja
+Author-email: ravitejaroy@gmail.com
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Framework :: Django
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Scroller Feed Library
+
+This is a simple Python library for creating scroller feeds in Django projects.
+
+## Installation
+
+You can install the library via pip:
+
+`sh
+pip install scroller-feed
+
